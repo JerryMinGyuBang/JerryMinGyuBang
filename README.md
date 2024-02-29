@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jerry Bang</h1>
 <h3 align="center">A passionate software developer from Canada</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jerrymingyubang&label=Profile%20views&color=0e75b6&style=flat" alt="jerrymingyubang" /> </p>
+<p align="left"> <img src="https://github.com/JerryMinGyuBang/CoffeeMachine/blob/master/animated_coding.gif" alt="jerrymingyubang" /> </p>
 
 - 🔭 I’m currently working on **Flight Deal Finder**
 
