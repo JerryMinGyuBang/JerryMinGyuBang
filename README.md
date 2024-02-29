@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jerry Bang</h1>
 <h3 align="center">A passionate software developer from Canada</h3>
+<img align="right" alt="Coding" width="400" src="file:///C:/Users/Min%20Gyu%20Bang/Downloads/animated_coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerrymingyubang&label=Profile%20views&color=0e75b6&style=flat" alt="jerrymingyubang" /> </p>
 
